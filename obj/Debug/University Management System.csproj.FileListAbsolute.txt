@@ -1,0 +1,97 @@
+D:\Study\OOP2\Projects\University Management System\bin\Debug\University Management System.exe.config
+D:\Study\OOP2\Projects\University Management System\bin\Debug\University Management System.exe
+D:\Study\OOP2\Projects\University Management System\bin\Debug\University Management System.pdb
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University Management System.csprojAssemblyReference.cache
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University_Management_System.Presentation_Layer.SplashScreen.resources
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University_Management_System.Properties.Resources.resources
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University Management System.csproj.GenerateResource.cache
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University Management System.csproj.CoreCompileInputs.cache
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University Management System.exe
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University Management System.pdb
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University_Management_System.Presentation_Layer.LogIn.resources
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.Licensing.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\MetroFramework.Design.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\MetroFramework.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\MetroFramework.Fonts.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University Management System.csproj.CopyComplete
+D:\Study\OOP2\Projects\University Management System\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University_Management_System.Presentation_Layer.Registration.resources
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University_Management_System.Presentation_Layer.AddStudent.resources
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University_Management_System.Presentation_Layer.UpdateStudentInfo.resources
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University_Management_System.Presentation_Layer.RemoveStudent.resources
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University_Management_System.Presentation_Layer.SearchStudentInfo.resources
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University_Management_System.Presentation_Layer.SearchStudentByCategory.resources
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University_Management_System.Presentation_Layer.AddTeacher.resources
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University_Management_System.Presentation_Layer.RemoveTeacher.resources
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University_Management_System.Presentation_Layer.SearchTeacherByCategory.resources
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University_Management_System.Presentation_Layer.SearchTeacherInfo.resources
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University_Management_System.Presentation_Layer.UpdateTeacherInfo.resources
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University_Management_System.MenuTeacher.resources
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University_Management_System.MenuStudent.resources
+D:\Study\OOP2\Projects\University Management System\obj\Debug\University_Management_System.Presentation_Layer.ManageSettings.resources
+D:\Study\OOP2\Projects\University Management System\bin\Debug\BouncyCastle.Crypto.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\itextsharp.dll
+D:\Study\OOP2\Projects\University Management System\bin\Debug\itextsharp.xml
